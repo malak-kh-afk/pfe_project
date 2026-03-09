@@ -131,7 +131,7 @@ http://localhost:5173
 
 ## Author
 
-Malak – Data Analytics & AI Engineering Student
+Malak – Data Analytics Student
 
 ---
 
